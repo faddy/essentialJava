@@ -1,5 +1,10 @@
 package inheritanceTests;
 
+/**
+ * @author fahad
+ * Abstract Person class. 
+ * Classes that currently extend this: Male, Female
+ */
 public abstract class AbstractPerson {
 
 	private static int totalPersons;
