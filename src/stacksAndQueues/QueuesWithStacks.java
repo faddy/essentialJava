@@ -1,5 +1,8 @@
 package stacksAndQueues;
-
+/*
+ * Implementing a fifo queue from two lifo stacks
+ *  
+ * */
 public class QueuesWithStacks {
 	
 	Stack stackA;

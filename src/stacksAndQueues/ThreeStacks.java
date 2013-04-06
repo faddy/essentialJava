@@ -1,5 +1,11 @@
 package stacksAndQueues;
 
+
+/**
+ * @author fahad
+ * Implementing three stacks with a single array.
+ * The array is divided between the 3 stacks equally.
+ */
 public class ThreeStacks {
 
 	Object[] buffer;

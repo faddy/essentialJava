@@ -2,6 +2,10 @@ package recursion;
 
 import java.util.*;
 
+/**
+ * @author fahad
+ * Generate all subsets of a given set
+ */
 public class SetOfSets {
 	
 	public static void main(String[] args){

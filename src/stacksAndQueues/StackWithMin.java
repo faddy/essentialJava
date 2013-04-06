@@ -1,5 +1,9 @@
 package stacksAndQueues;
 
+/*Implementation of a stack which keeps
+ *track of the minimum value it holds
+ *(implemented only for integers)
+ * */
 public class StackWithMin {
 
 	StackMinNode top;

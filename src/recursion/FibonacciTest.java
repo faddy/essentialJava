@@ -8,6 +8,11 @@ public class FibonacciTest {
 		System.out.println(iterativeFib(n));
 	}
 	
+	/**
+	 * @param n 
+	 * @return the nth term of the fibonacci series
+	 * This is the recursive method
+	 */
 	public static int fib(int n){
 		if (n < 0) return -1;
 		if (n==0) return 0;
@@ -16,6 +21,11 @@ public class FibonacciTest {
 		return fib(n-2) + fib(n-1);
 	}
 
+	/**
+	 * @param n 
+	 * @return the nth term of the fibonacci series
+	 * This is the iterative method
+	 */
 	public static int iterativeFib(int n){
 		
 		if (n < 0) return -1;

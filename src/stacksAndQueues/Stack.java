@@ -1,5 +1,8 @@
 package stacksAndQueues;
 
+/*
+ * A simple lifo Stack implementation
+ * */
 public class Stack {
 	public Node top;
 	

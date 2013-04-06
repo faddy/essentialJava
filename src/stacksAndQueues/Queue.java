@@ -1,5 +1,8 @@
 package stacksAndQueues;
 
+/*
+ * A simple fifo Queue implementation
+ * */
 public class Queue {
 
 	public Node first, last;
