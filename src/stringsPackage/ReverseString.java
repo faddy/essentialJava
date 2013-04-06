@@ -1,5 +1,9 @@
 package stringsPackage;
 
+/*
+ * Reverse a C style string (i.e. has a null character at the end)
+ * it takes the input string as an argument on the command line.
+ * */
 public class ReverseString {
 
     public static void main(String[] args){

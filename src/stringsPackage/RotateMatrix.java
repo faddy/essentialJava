@@ -1,5 +1,8 @@
 package stringsPackage;
 
+/*
+ * Rotate a NxN matrix by 90 degrees
+ * */
 public class RotateMatrix {
 
 	public static void main(String[] args){

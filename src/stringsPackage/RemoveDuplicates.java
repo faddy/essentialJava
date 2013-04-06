@@ -1,5 +1,8 @@
 package stringsPackage;
 
+/*
+ * Remove duplicate characteres from a string
+ * */
 public class RemoveDuplicates {
 	
 	public static void main (String[] args){

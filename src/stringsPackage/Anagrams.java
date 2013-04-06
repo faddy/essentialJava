@@ -2,6 +2,12 @@ package stringsPackage;
 
 import java.util.HashMap;
 
+/*
+ * To check if two strings are anagrams of not.
+ * A simple way is to sort the strings and then check for equality.
+ * This alternative approach here uses a hashmap to store counts
+ * of characters in the string and then compares them
+ * */
 public class Anagrams {
 	
 	public static void main(String[] args){

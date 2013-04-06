@@ -1,5 +1,13 @@
 package threading;
 
+/*
+ * A class which stores an integer value 'n'
+ * The getter and setter methods of 'n' are synchronized
+ * i.e. only one thread at a time can modify the variable
+ * 
+ * After a 'producer' thread sets the value of n
+ * a 'consumer' thread can consume its value and unset it.
+ * */
 public class Qu {
 
 	int n;
